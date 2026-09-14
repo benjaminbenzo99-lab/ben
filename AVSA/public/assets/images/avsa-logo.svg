@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 180" role="img" aria-labelledby="title desc">
+  <title id="title">AVSA - Africa Vulnerable Support Agency</title>
+  <desc id="desc">A green Africa silhouette held by navy caring hands around a cross, with AVSA wordmark.</desc>
+  <defs>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16833a"/>
+      <stop offset="1" stop-color="#0b632e"/>
+    </linearGradient>
+    <linearGradient id="navy" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#17458f"/>
+      <stop offset="1" stop-color="#092f73"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(8 8)">
+    <path d="M91 18c-29 4-50 20-57 45-6 22 8 42 28 48 11 4 16 15 17 28 2 21 17 31 35 25 18-7 25-27 18-47-5-14-16-22-25-31-8-8-11-18-6-31 5-15 14-27 27-37-11-3-23-3-37 0z" fill="url(#green)"/>
+    <path d="M83 92c-18-14-27-31-20-47 4-9 12-11 19-4 10 10 18 23 25 37 9 18 14 32 15 47-19-2-31-12-39-33z" fill="url(#navy)"/>
+    <path d="M111 22c-22 12-39 31-45 53M152 22c22 12 39 31 45 53" fill="none" stroke="#16833a" stroke-width="9" stroke-linecap="round"/>
+    <path d="M152 92c18-14 27-31 20-47-4-9-12-11-19-4-10 10-18 23-25 37-9 18-14 32-15 47 19-2 31-12 39-33z" fill="url(#navy)"/>
+    <path d="M117 83h12v17h17v12h-17v24h-12v-24h-17v-12h17z" fill="#16833a"/>
+  </g>
+  <g transform="translate(205 44)">
+    <text x="0" y="54" fill="#103875" font-family="Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="5">AVSA</text>
+    <text x="2" y="82" fill="#176b32" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing=".5">AFRICA VULNERABLE SUPPORT AGENCY</text>
+    <rect x="2" y="98" width="335" height="4" rx="2" fill="#9bd34f"/>
+  </g>
+</svg>

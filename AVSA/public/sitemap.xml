@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>http://localhost/AVSA/?page=home</loc></url>
+  <url><loc>http://localhost/AVSA/?page=about</loc></url>
+  <url><loc>http://localhost/AVSA/?page=what-we-do</loc></url>
+  <url><loc>http://localhost/AVSA/?page=impact</loc></url>
+  <url><loc>http://localhost/AVSA/?page=projects</loc></url>
+  <url><loc>http://localhost/AVSA/?page=stories</loc></url>
+  <url><loc>http://localhost/AVSA/?page=gallery</loc></url>
+  <url><loc>http://localhost/AVSA/?page=get-involved</loc></url>
+  <url><loc>http://localhost/AVSA/?page=contact</loc></url>
+  <url><loc>http://localhost/AVSA/?page=donate</loc></url>
+</urlset>
